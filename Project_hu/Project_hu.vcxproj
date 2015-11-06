@@ -129,8 +129,19 @@
   <ItemGroup>
     <ClInclude Include="for_each_max_min_sum.h" />
     <ClInclude Include="for_each_test.h" />
+    <ClInclude Include="hu_fill.h" />
+    <ClInclude Include="hu_copy.h" />
+    <ClInclude Include="hu_count.h" />
+    <ClInclude Include="hu_equal_mismatch.h" />
     <ClInclude Include="hu_find_search.h" />
+    <ClInclude Include="hu_generate.h" />
+    <ClInclude Include="hu_remove.h" />
+    <ClInclude Include="hu_replace.h" />
     <ClInclude Include="hu_student_综合查询.h" />
+    <ClInclude Include="hu_swap.h" />
+    <ClInclude Include="hu_unique.h" />
+    <ClInclude Include="hu_变异算法.h" />
+    <ClInclude Include="hu_transform.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="mian.cpp" />

@@ -27,6 +27,39 @@
     <ClInclude Include="hu_student_综合查询.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="hu_count.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="hu_equal_mismatch.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="hu_变异算法.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="hu_copy.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="hu_swap.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="hu_transform.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="hu_replace.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="hu_fill.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="hu_generate.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="hu_remove.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="hu_unique.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="mian.cpp">
